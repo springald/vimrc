@@ -15,7 +15,7 @@ Create symbol link:
 
 Get plugin from Github
 
-	git submodule add  https://github.com/(creator)/(name) ~/.vim/bundle/(name)
+	git submodule add  https://(plugin github path) ~/.vim/bundle/(self-defined name)
 
 Switch to the `~/.vim` directory, and fetch submodules:
 
