@@ -4,6 +4,9 @@ execute pathogen#infect()
 " Show a line number in front of each line 
 set nu
 
+" Highlight search target
+set hlsearch
+
 " Indent automatically in C file
 set cindent shiftwidth=4
 
